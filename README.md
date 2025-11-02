@@ -14,7 +14,7 @@
 
 ### ⚡ Random Dev Quote
 <p align="center">
- "Tôi không phô diễn quá trình — tôi để kết quả lên tiếng."
+ "Tôi không phô diễn quá trình — tôi để kết quả lên tiếng."<br>
 — Lê Uy Dev
 </p>
 
