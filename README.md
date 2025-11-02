@@ -14,9 +14,13 @@
 
 ### ⚡ Random Dev Quote
 <p align="center">
- "Tôi không phô diễn quá trình — tôi để kết quả lên tiếng."<br>
-— Lê Uy Dev
+  <img src="https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/blob/main/banner.gif" width="100%" alt="Banner">
 </p>
+
+<h3 align="center">💀 "Tôi không phô diễn quá trình — tôi để kết quả lên tiếng."</h3>
+<h4 align="center"><i>"I don’t showcase the process — I let the results speak."</i></h4>
+<p align="center">— <b>Lê Uy Dev</b></p>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
