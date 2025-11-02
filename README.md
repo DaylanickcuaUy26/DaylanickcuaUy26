@@ -3,7 +3,7 @@
 
 <p align="center" style="margin: 0; padding: 0;">
   <img 
-    src="[https://raw.githubusercontent.com/DaylanickcuaUy26/DaylanickcuaUy26/main/banner.gif](https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/commit/2c759bf09ae01c7ab10e8370d46da5bb0739e5b0)" 
+    src="https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/blob/main/banner2.gif" 
     alt="Le Uy Dev Banner" 
     width="50%" 
     style="display:block; margin:0; padding:0; border-radius:0; object-fit:cover;" />
