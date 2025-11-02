@@ -13,10 +13,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1AGHsFtbXj/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/uydayy26/?igsh=azhwb2hnb3Y1Nmk5&utm_source=qr) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/43Vig3Jz1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@uy_dayy26 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leuy26011@gmail.com) 
 
 ### ⚡ Random Dev Quote
-<p align="center">
-  <img src="https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/blob/main/banner.gif" width="100%" alt="Banner">
-</p>
-
 <h3 align="center">💀 "Tôi không phô diễn quá trình — tôi để kết quả lên tiếng."</h3>
 <h4 align="center"><i>"I don’t showcase the process — I let the results speak."</i></h4>
 <p align="center">— <b>Lê Uy Dev</b></p>
