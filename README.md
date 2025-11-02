@@ -14,7 +14,8 @@
 
 ### ⚡ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+ "Tôi không phô diễn quá trình — tôi để kết quả lên tiếng."
+— Lê Uy Dev
 </p>
 
 # 💻 Tech Stack:
