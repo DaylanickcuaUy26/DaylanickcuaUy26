@@ -15,6 +15,7 @@
 ### ⚡ Random Dev Quote
 <h3 align="center">💀 "Tôi không phô diễn quá trình — tôi để kết quả lên tiếng."</h3>
 <h4 align="center"><i>"I don’t showcase the process — I let the results speak."</i></h4>
+<p align="center">_Thanks for stopping by! Have a great day!_ 🚀</p>
 <p align="center">— <b>Lê Uy Dev</b></p>
 
 
