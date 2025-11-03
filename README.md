@@ -5,7 +5,7 @@
   <img 
     src="https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/blob/main/banner2.gif" 
     alt="Le Uy Dev Banner" 
-    width="50%" 
+    width="100%" 
     style="display:block; margin:0; padding:0; border-radius:0; object-fit:cover;" />
 </p>
 
