@@ -1,6 +1,8 @@
 # 👋 Hi there! I'm Uy Lê  
 Welcome to my GitHub profile 💻  
 <img src="https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/blob/main/Banner_02_new.gif" alt="banner">
+“Không trình diễn hành trình <br>
+ Chỉ trình làng kết quả.”
 # 💫 About Me:
 <br>🌱 Learning to turn coffee into code.<br>🚀 Passionate about web development and artificial intelligence.<br>💡 Always curious and exploring new technologies.<br>🧠 Building personal projects to sharpen my coding skills.<br>🎓 Student & self-taught developer.<br>🎮 Love gaming, listening to music, and designing beautiful interfaces.<br>☕ Coffee + code = daily energy.
 
