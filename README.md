@@ -1,1 +1,1 @@
-<img src="[https://raw.githubusercontent.com/DaylanickcuaUy26/DaylanickcuaUy26/main/banner.gif](https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/commit/970d966ce01d0869f3c942b23016d2463e900e2f)" width="100%" height="250px" alt="banner">
+<img src="https://github.com/DaylanickcuaUy26/DaylanickcuaUy26/blob/main/Banner_02_new.gif" alt="banner">
